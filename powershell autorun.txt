@@ -1,0 +1,1 @@
+powershell -noexit -command &{cd C:\Users\'Kuba i Jacek'\Desktop\Cypress; ./node_modules/.bin/cypress run --spec "cypress/integration/test1.js"}
